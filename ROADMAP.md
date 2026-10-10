@@ -98,9 +98,19 @@
 ---
 
 ### Documentation
-- [ ] `docs/decisions/ADR-001.md` — LLaMA 3.1 8B vs Mistral 7B — written and decided
-- [ ] `docs/decisions/ADR-002.md` — ChromaDB vs FAISS — written and decided
+- [x] `CLAUDE.md` — standing rules created (Session 1, 2026-10-10)
+- [x] `AGENTS.md` — standing rules created, identical to CLAUDE.md (Session 1, 2026-10-10)
+- [x] `docs/VISION.md` — vision, goals, non-goals from briefing (Session 1, 2026-10-10)
+- [x] `docs/decisions/ADR-001.md` — LLaMA 3.1 8B vs Mistral 7B — written, PENDING owner decision
+- [x] `docs/decisions/ADR-002.md` — ChromaDB vs FAISS — written, PENDING owner decision
+- [x] `docs/decisions/ADR-003.md` — EWC lambda — written, PENDING measurement in Phase 3
+- [x] `docs/decisions/ADR-004.md` — Neo4j vs RDFLib — written, PENDING owner decision
+- [x] `docs/decisions/ADR-005.md` — DPO quality gate — written, PENDING owner decision
+- [x] `docs/decisions/ADR-006.md` — Sequencing: vertical slice vs Phase 0 gate — written, PENDING owner decision
+- [x] `docs/decisions/ADR-007.md` — Capability layer: local vs hybrid vs frontier — written, PENDING owner decision
+- [x] `docs/review_notes.md` — code review of catastrophic_forgetting_demo.py (Session 1, 2026-10-10)
 - [ ] `docs/phase0_notes.md` — personal notes from all Phase 0 reading + experiments
+- [ ] `docs/PLAN.md` — 2-week thin slice plan (pending owner answers to Session 1 questions)
 
 ---
 
