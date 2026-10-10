@@ -106,11 +106,11 @@
 - [x] `docs/decisions/ADR-003.md` — EWC lambda — written, PENDING measurement in Phase 3
 - [x] `docs/decisions/ADR-004.md` — Neo4j vs RDFLib — written, PENDING owner decision
 - [x] `docs/decisions/ADR-005.md` — DPO quality gate — written, PENDING owner decision
-- [x] `docs/decisions/ADR-006.md` — Sequencing: vertical slice vs Phase 0 gate — written, PENDING owner decision
-- [x] `docs/decisions/ADR-007.md` — Capability layer: local vs hybrid vs frontier — written, PENDING owner decision
+- [x] `docs/decisions/ADR-006.md` — Sequencing: vertical slice vs Phase 0 gate — **ACCEPTED: parallel with tripwire 2026-11-01**
+- [x] `docs/decisions/ADR-007.md` — Capability layer — **ACCEPTED: frontier-backed, hybrid-ready, AllowlistFilter required**
 - [x] `docs/review_notes.md` — code review of catastrophic_forgetting_demo.py (Session 1, 2026-10-10)
+- [x] `docs/PLAN.md` — 2-week thin-slice sprint + parallel Phase 0 schedule — **AWAITING OWNER APPROVAL**
 - [ ] `docs/phase0_notes.md` — personal notes from all Phase 0 reading + experiments
-- [ ] `docs/PLAN.md` — 2-week thin slice plan (pending owner answers to Session 1 questions)
 
 ---
 
