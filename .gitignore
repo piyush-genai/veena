@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+data/
+*.pt
+*.pth
+*.safetensors
+*.gguf
+phase0_foundations/results/
+phase0_foundations/qlora_output/
+veena_episodic_db/
+.DS_Store
